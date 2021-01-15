@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Musa-94/tic-tac-toe.git"
+    "url": "git+https://github.com/VictoriaMarjina/ToDoRedux2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Musa-94/tic-tac-toe/issues"
+    "url": "https://github.com/VictoriaMarjina/ToDoRedux2.git/issues"
   },
-  "homepage": "https://github.com/Musa-94/tic-tac-toe#readme",
+  "homepage": "https://github.com/VictoriaMarjina/ToDoRedux2.git#readme",
   "dependencies": {
     "@babel/plugin-proposal-decorators": "^7.12.12",
     "react": "^17.0.1",
